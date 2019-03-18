@@ -1,0 +1,47 @@
+html {
+  font-family: comic sans ms;
+  text-align: center; 
+}
+
+#stan {
+  background-color: #24a322;
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+#main {
+  margin: 30px auto;
+  padding: 15px;
+  border: 0px solid;
+  border-radius: 5px;
+  background: linear-gradient(45deg, #cc240c, #f9f7f7);
+}
+
+#image {
+  display: block;
+  border-radius: 50px;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+#headline {
+  text-align: center;
+  padding: 10px;
+}
+
+ul {
+  max-width: 580px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+li {
+  margin: 10px;
+}
+
+blockquote {
+  font-style: italic;
+}
